@@ -1,0 +1,26 @@
+#quotes{
+
+	color:red;
+
+
+}
+body{
+	
+	background-color: red;
+	background-image: url("trump.jpg");
+	background-repeat: no-repeat;
+	background-position:center 60px;
+}
+
+blockquote{
+
+	background-color:white;
+	margin: 40% 25% 0 25%;
+}
+#newQuote{
+	margin-left: 25%;
+
+}
+h1{
+	text-align:center;
+}
